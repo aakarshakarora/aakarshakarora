@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Django and Flask
 - 💞️ I’m looking to collaborate on backend developement project using jango
 - 📫 You can connect with me on LinkedIn  https://www.linkedin.com/in/aakarshak-arora-3708b599/
-- 
 
 
