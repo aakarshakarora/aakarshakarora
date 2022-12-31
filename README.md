@@ -6,5 +6,5 @@
 
 <!---
 aakarshakarora/aakarshakarora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can connect with me on LinkedIn  https://www.linkedin.com/in/aakarshak-arora-3708b599/
 --->
